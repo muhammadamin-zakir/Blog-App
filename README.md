@@ -30,7 +30,7 @@
 
 2. Clone the repo
     ```sh
-    git clone https://github.com/github_username/repo_name.git
+    git clone https://github.com/muhammadamin-zakir/blog-app.git
     ```
 3. Install NPM packages
     ```sh
