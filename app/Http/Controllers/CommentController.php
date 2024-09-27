@@ -7,21 +7,6 @@ use Illuminate\Http\Request;
 
 class CommentController extends Controller
 {
-    // public function store(Request $request)
-    // {
-    //     $request->validate([
-    //         'comment' => 'required|string|max:500'
-    //     ]);
-
-    //     Comment::create([
-    //         'user_id' => auth()->id(),
-    //         'blog_id' => $request->blog_id,
-    //         'content' => $request->comment
-    //     ]);
-
-    //     return redirect()->back()->with('message', 'Your comment has been added successfully.');
-    // }
-
     public function store(Request $request)
     {
         $request->validate([
