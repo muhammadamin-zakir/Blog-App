@@ -13,10 +13,15 @@
 
 ### Projeyi çalıştırmak için gerkenler.
 
--   docker desctop
--   wsl
+-   docker desktop (https://www.docker.com/products/docker-desktop/)
+-   wsl    ()
 -   laravel
 -   mysql
+
+- wsl indirilmesi
+  ```sh
+  wsl --install
+  ```
 
 -   composer indirilmesi
     ```sh
