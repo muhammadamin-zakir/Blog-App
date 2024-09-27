@@ -4,12 +4,12 @@
 
 # Blog için kullanılan framework, kütüphaneler ve vb.
 
--   [[PHP]]
--   [[Laravel]]
--   [[Mysql]]
--   [[Docker]]
--   [[Composer]]
--   [[WSL]]
+-   PHP
+-   Laravel
+-   Mysql
+-   Docker
+-   Composer
+-   WSL
 
 ### Projeyi çalıştırmak için gerkenler.
 
@@ -39,8 +39,8 @@
 
 ### wsl içinden projenin çalıştırılması
 
-    ```sh
+   ```sh
     ./vendor/bin/sail up -d
-    ```
+   ```
 
 ### localhos/blogs sayfasına gidip projeyi görebilirsiniz.
