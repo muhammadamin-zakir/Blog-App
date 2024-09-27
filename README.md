@@ -17,6 +17,7 @@
 -   wsl    ()
 -   laravel
 -   mysql
+-   composer
 
 - wsl indirilmesi
   ```sh
