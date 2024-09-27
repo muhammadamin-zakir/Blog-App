@@ -4,12 +4,12 @@
 
 # Blog için kullanılan framework, kütüphaneler ve vb.
 
--   [![PHP]]
--   [![Laravel]]
--   [![Mysql]]
--   [![Docker]]
--   [![Composer]]
--   [![WSL]]
+-   [[PHP]]
+-   [[Laravel]]
+-   [[Mysql]]
+-   [[Docker]]
+-   [[Composer]]
+-   [[WSL]]
 
 ### Projeyi çalıştırmak için gerkenler.
 
